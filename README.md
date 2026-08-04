@@ -33,6 +33,7 @@ This dashboard enables stakeholders to:
 ## Screenshots
 
 Sales Overview 
+![Sales Overview](sales-overview.png)
 
 ## How to Use
 1. Download 'BlinkIt.pbix'
